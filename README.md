@@ -8,7 +8,7 @@ User behavior trajectory tracking
 ## Installation
 
 #### Install using npm 
-[![jscalpel](https://nodei.co/npm/ mtracker.png)](https://npmjs.org/package/ mtracker)
+[![mtracker](https://nodei.co/npm/mtracker.png)](https://npmjs.org/package/mtracker)
 ``` 
 npm install  mtracker --save
 yarn add mtracker --save
